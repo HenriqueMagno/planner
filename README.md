@@ -8,7 +8,7 @@ A aplicação permite criar uma viagem, definir destino e período, convidar par
 
 ## Preview
 
-### Página inicial
+### Página inicial:
 
 ![Página inicial](./src/assets/preview.png)
 
