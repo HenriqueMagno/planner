@@ -10,23 +10,23 @@ A aplicação permite criar uma viagem, definir destino e período, convidar par
 
 ### Página inicial:
 
-![Página inicial](./src/assets/preview.png)
+![Página inicial](./frontend/src/assets/preview.png)
 
 ### Convide seus amigos para viagem
 
-![Viagem criada](./src/assets/preview-2.png)
+![Viagem criada](./frontend/src/assets/preview-2.png)
 
 ### Confirmação da viagem
 
-![Confirmação da viagem](./src/assets/preview-3.png)
+![Confirmação da viagem](./frontend/src/assets/preview-3.png)
 
 ### Crie as atividades
 
-![Confirmação da viagem](./src/assets/preview-4.png)
+![Confirmação da viagem](./frontend/src/assets/preview-4.png)
 
 ### Atividades criadas
 
-![Confirmação da viagem](./src/assets/preview-5.png)
+![Confirmação da viagem](./frontend/src/assets/preview-5.png)
 
 ---
 
